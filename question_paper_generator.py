@@ -59,7 +59,7 @@ def generate_question_paper(part_a, part_b, output_file):
 
 # Main
 if __name__ == "__main__":
-    input_file = "question_bank.docx"  # Replace with the name of your input file
+    input_file = "question_bank.docx"  
     output_file = "final_question_paper.docx"
 
     print("Parsing question bank...")
