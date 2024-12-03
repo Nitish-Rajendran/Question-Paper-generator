@@ -17,7 +17,7 @@ The **Automated Question Paper Generator** is a Python-based tool designed to si
 ## Methodology
 1. **Document Parsing**: Extracts text from the input file using the `python-docx` library.
 2. **Categorization**: Basic text classification groups questions by units.
-3. **Selection Algorithm**: Ensures balanced selection based on the defined norms.
+3. **Selection Algorithm**: Ensures balanced selection based on the Bloom's  level.
 4. **Output Formatting**: Generates a final question paper as a `.docx` file.
 
 ## Requirements
