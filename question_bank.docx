@@ -1,0 +1,60 @@
+Unit 1
+  1. Define AI.
+  2. What is machine learning?
+  3. Explain the history of AI.
+  4. List applications of AI.
+  5. What are the types of AI?
+  6. Explain narrow AI and general AI.
+  7. Define supervised learning.
+  8. What are decision trees?
+  9. Describe the importance of AI in healthcare.
+  10. Discuss AI ethics.
+
+Unit 2
+  1. Explain supervised learning.
+  2. What is unsupervised learning?
+  3. Define clustering.
+  4. What are K-means and its applications?
+  5. Explain classification models.
+  6. Describe linear regression.
+  7. What is logistic regression?
+  8. Define principal component analysis (PCA).
+  9. What are support vector machines?
+  10. Explain feature selection.
+
+Unit 3
+  1. Define reinforcement learning.
+  2. What are neural networks?
+  3. Explain convolutional neural networks (CNN).
+  4. What is backpropagation?
+  5. Describe activation functions.
+  6. Define overfitting and underfitting.
+  7. What is transfer learning?
+  8. Explain recurrent neural networks (RNN).
+  9. What are generative adversarial networks (GAN)?
+  10. Discuss the importance of reinforcement learning.
+
+Unit 4
+  1. Explain deep learning.
+  2. What is gradient descent?
+  3. Define stochastic gradient descent.
+  4. What are autoencoders?
+  5. Describe the role of deep learning in image processing.
+  6. What is a deep belief network (DBN)?
+  7. Explain LSTMs.
+  8. What is a dropout layer in neural networks?
+  9. Discuss the challenges of deep learning.
+  10. What is the importance of hyperparameter tuning?
+
+Unit 5
+  1. Define big data.
+  2. What is data preprocessing?
+  3. Explain the 3 V's of big data.
+  4. What is Hadoop?
+  5. Describe the importance of data cleaning.
+  6. Define data normalization.
+  7. What is data mining?
+  8. Explain the use of Spark in big data.
+  9. What is a data lake?
+  10. Discuss the applications of big data in business.
+
