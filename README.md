@@ -29,7 +29,7 @@ The **Automated Question Paper Generator** is a Python-based tool designed to si
 Install the required dependencies:
 ```bash
 pip install python-docx
-
+```
 ## Future Enhancements
 1. Incorporate advanced NLP for better categorization.
 2. Add support for Bloom's taxonomy levels.
