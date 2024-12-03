@@ -34,3 +34,6 @@ pip install python-docx
 1. Incorporate advanced NLP for better categorization.
 2. Add support for Bloom's taxonomy levels.
 3. Develop a GUI for non-technical users.
+
+
+#### Feel free to contribute your ideas
