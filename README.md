@@ -1,5 +1,5 @@
 # Automated Question Paper Generator Using AI
-This code automates question paper creation by reading a .docx question bank, categorizing questions by units, and selecting them based on predefined norms. It generates a structured paper with 10 one-mark and 5 ten-mark questions, ensuring balanced unit coverage and proper formatting, saving it as a .docx file ready for use.
+This code automates question paper creation by reading a .docx question bank, categorizing questions by units, and selecting them based on difficulty level and Bloom's level. It generates a structured paper with 10 one-mark and 5 ten-mark questions, ensuring balanced unit coverage and proper formatting, saving it as a .docx file ready for use.
 
 
 
@@ -36,4 +36,4 @@ pip install python-docx
 3. Develop a GUI for non-technical users.
 
 
-#### Feel free to contribute your ideas
+#### **Feel free to contribute your ideas**
